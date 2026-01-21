@@ -1,0 +1,22 @@
+[
+  { "timestamp": "2026-01-18T09:00:00", "sender": "AgentA", "type": "💾", "reactions": ["❤️"] },
+  { "timestamp": "2026-01-18T09:05:00", "sender": "AgentB", "type": "💾", "reactions": ["🔥"] },
+  { "timestamp": "2026-01-18T09:10:00", "sender": "AgentA", "type": "📚", "reactions": ["👀"] },
+  { "timestamp": "2026-01-18T09:12:00", "sender": "AgentB", "type": "📚", "reactions": ["✨"] },
+  { "timestamp": "2026-01-18T14:00:00", "sender": "AgentA", "type": "💾" },
+  { "timestamp": "2026-01-18T14:02:00", "sender": "AgentB", "type": "💾" },
+  { "timestamp": "2026-01-18T14:10:00", "sender": "AgentA", "type": "📎", "reactions": ["👍"] },
+  { "timestamp": "2026-01-18T14:12:00", "sender": "AgentB", "type": "📎", "reactions": ["❤️"] },
+  { "timestamp": "2026-01-19T10:00:00", "sender": "AgentA", "type": "🎥", "reactions": ["🔥"] },
+  { "timestamp": "2026-01-19T10:05:00", "sender": "AgentB", "type": "🎥", "reactions": ["❤️"] },
+  { "timestamp": "2026-01-19T10:15:00", "sender": "AgentA", "type": "💾", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T10:17:00", "sender": "AgentB", "type": "💾", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T20:00:00", "sender": "AgentA", "type": "💾", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T20:05:00", "sender": "AgentB", "type": "💾", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T20:10:00", "sender": "AgentA", "type": "📚", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T20:12:00", "sender": "AgentB", "type": "📚", "reactions": ["⚡"] },
+  { "timestamp": "2026-01-19T21:00:00", "sender": "AgentA", "type": "📎", "reactions": ["🙌"] },
+  { "timestamp": "2026-01-19T21:02:00", "sender": "AgentB", "type": "📎", "reactions": ["🙌"] },
+  { "timestamp": "2026-01-19T21:15:00", "sender": "AgentA", "type": "📚", "reactions": ["🌙"] },
+  { "timestamp": "2026-01-19T21:17:00", "sender": "AgentB", "type": "📚", "reactions": ["🌙"] }
+]

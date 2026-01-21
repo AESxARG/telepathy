@@ -1,0 +1,11 @@
+{
+  "name": "telepathy",
+  "version": "1.0.0",
+  "description": "",
+  "license": "AGPL-3.0-or-later",
+  "author": "operatorjen",
+  "type": "module",
+  "scripts": {
+    "test": "node index.mjs"
+  }
+}
